@@ -1,5 +1,5 @@
 # PerTract
-Tootls to extract, specify, and simulate performance models of big data systems for performance prediction (e.g., response time, CPU utilization).
+Tools to extract, specify, and simulate performance models of big data systems for performance prediction (e.g., response time, CPU utilization).
 
 PerTract consists of the following repositories:
 
